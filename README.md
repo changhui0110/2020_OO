@@ -36,7 +36,7 @@ ___
 
 ___
 
-># 功能分解圖
+># 功能分解圖(functional decomposition diagram, FDD)
 
 >>![bone](fdd.jpg "fdd")
 
