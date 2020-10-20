@@ -36,7 +36,9 @@ ___
 
 ___
 
-![bone](fdd.jpg "fdd")
+># 功能分解圖
 
+>>![bone](fdd.jpg "fdd")
 
+___
 
