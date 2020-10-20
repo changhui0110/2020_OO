@@ -36,7 +36,7 @@ ___
 
 ___
 
-![bone](fdd.png "fdd")
+![bone](fdd.jpg "fdd")
 
 
 
