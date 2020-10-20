@@ -1,6 +1,6 @@
 # 2020_OO
 ## 姓名:江昶輝 班級:資管三甲 學號:C107118114
-### 組員:鄭世文、劉育誠、鄭興盛、蕭育州  組長:江昶輝
+#### 組員:鄭世文、劉育誠、鄭興盛、蕭育州  組長:江昶輝
 ### :sparkles::sparkles:專題名稱:Bone's text sentiment analysis:sparkles::sparkles:
 ![bone](bone.jpg "骨影")
 ##### 摘要:
