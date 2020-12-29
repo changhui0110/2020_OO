@@ -128,3 +128,7 @@ ___
 ---
 ## 實體關係圖 ERD
 ![bone](ERD.jpg)
+
+---
+## 期末報告PPT
+<https://drive.google.com/file/d/1q5_w2ROJnboK6nBOFI_VuCNfLuLNaFk8/view?usp=sharing>
